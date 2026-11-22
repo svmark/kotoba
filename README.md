@@ -17,8 +17,6 @@
 
 <img src="docs/images/home.png" alt="고토바 학습 진행 화면" width="300">
 
-N5는 학습 범위를 설명하기 위한 비공식 수준 표시입니다. JLPT 공식 앱이나 공식 목록이 아닙니다.
-
 ## Android 설치
 
 APK는 아직 비공개 상태입니다. 공개 후 [릴리스 목록](https://github.com/svmark/kotoba/releases)의 Assets에서 `kotoba.apk`를 받을 수 있습니다.
