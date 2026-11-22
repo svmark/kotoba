@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 설치·업데이트 안내
+    url: https://github.com/svmark/kotoba/blob/main/INSTALL.md
+    about: 설치와 기록 백업 방법을 먼저 확인해 주세요.

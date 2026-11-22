@@ -1,0 +1,33 @@
+name: 오류 제보
+description: 설치·학습·발음 등의 문제를 알려 주세요.
+title: "[오류] "
+body:
+  - type: markdown
+    attributes:
+      value: "공개 게시판입니다. 개인정보나 학습 백업 파일은 첨부하지 마세요."
+  - type: input
+    id: app_version
+    attributes:
+      label: 고토바 버전
+      placeholder: "예: 0.1.0"
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: 기기와 Android 버전
+      placeholder: "예: Galaxy Z Fold8 / Android 버전"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 문제가 생기기까지 한 동작
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: 기대한 결과와 실제 결과
+    validations:
+      required: true
