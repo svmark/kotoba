@@ -4,8 +4,6 @@
 
 가나부터 시작하는 일본어 학습 앱입니다. 매일 조금씩 배우고, 간격 반복으로 복습합니다. 한국어로 설명하며 회원가입 없이 사용할 수 있습니다.
 
-현재 Android 첫 공개를 준비하고 있습니다. 설치 APK는 아직 일반에 공개하지 않았습니다. 공개 후 [릴리스 목록](https://github.com/svmark/kotoba/releases)에서 받을 수 있습니다.
-
 ## 공부할 수 있는 내용
 
 | 코스 | 내용 |
@@ -23,7 +21,7 @@ N5는 학습 범위를 설명하기 위한 비공식 수준 표시입니다. JLP
 
 ## Android 설치
 
-첫 버전 공개 후 릴리스의 Assets에서 `kotoba.apk`를 내려받아 설치합니다. `Source code` 압축 파일은 설치 파일이 아닙니다. Google Play를 거치지 않으므로 브라우저나 파일 앱에서 ‘이 출처 허용’이 필요할 수 있습니다.
+APK는 아직 비공개 상태입니다. 공개 후 [릴리스 목록](https://github.com/svmark/kotoba/releases)의 Assets에서 `kotoba.apk`를 받을 수 있습니다. `Source code` 압축 파일은 설치 파일이 아닙니다. Google Play를 거치지 않으므로 브라우저나 파일 앱에서 ‘이 출처 허용’이 필요할 수 있습니다.
 
 - [설치·업데이트 안내](INSTALL.md)
 - [릴리스 목록](https://github.com/svmark/kotoba/releases)
